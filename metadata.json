@@ -1,0 +1,6 @@
+{
+  "name": "SyllaboDys — Atelier de Lecture Syllabique",
+  "description": "Outil d'accessibilité numérique pour enseignants, orthophonistes et parents permettant de segmenter et colorer les syllabes pour faciliter la lecture des élèves dyslexiques.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
